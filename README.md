@@ -1,4 +1,5 @@
 #Overview
+
 Genius is an innovative AI-powered SaaS platform that brings together cutting-edge technologies to empower users with creative capabilities. With a user-friendly interface, our platform offers a range of exciting features, including video creation, image generation, interactive conversations, code generation, and music composition.
 
 #Features
