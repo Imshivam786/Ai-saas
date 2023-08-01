@@ -4,6 +4,7 @@ Genius is an innovative AI-powered SaaS platform that brings together cutting-ed
 
 #Features
 
+
 Video Creation: Easily create captivating videos based on specific search queries or topics, harnessing the power of AI to assemble relevant video clips seamlessly.
 
 Image Generation: Unlock the potential of AI-generated imagery, enabling users to produce diverse and original visuals for various creative projects.
@@ -16,15 +17,16 @@ Music Composition: Tap into the AI's musical prowess to create beautiful and ori
 
 #Technologies Used
 
+
 Next.js 13
 React
 Tailwind CSS
 Prisma
 Stripe
+
 #Getting Started
 
 To get started with Genius, follow these steps:
-
 Clone the repository to your local machine.
 Install the required dependencies using npm install.
 Configure the environment variables as specified in env.example.
